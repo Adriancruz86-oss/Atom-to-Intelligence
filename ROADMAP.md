@@ -4,9 +4,9 @@ This roadmap follows the dependency chain from physical matter to modern artific
 
 ## Part I — Matter Becomes a Switch
 
-- [ ] 001 — Why Start With Atoms?
-- [ ] 002 — Atoms, Charge, and Electrons
-- [ ] 003 — Voltage, Current, and Resistance
+- [x] [001 — Why Start With Atoms?](chapters/part-01-matter-to-switch/001-why-start-with-atoms.md)
+- [x] [002 — Atoms, Charge, and Electrons](chapters/part-01-matter-to-switch/002-atoms-charge-and-electrons.md)
+- [x] [003 — Voltage, Current, and Resistance](chapters/part-01-matter-to-switch/003-voltage-current-and-resistance.md)
 - [ ] 004 — Conductors, Insulators, and Semiconductors
 - [ ] 005 — Doping Silicon
 - [ ] 006 — The Transistor as a Controlled Switch
