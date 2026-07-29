@@ -57,6 +57,16 @@ The project is both:
 - an educational guide for readers who want a true bottom-up explanation;
 - a record of one learner building technical understanding from first principles.
 
+## Start Reading
+
+### Part I — Matter Becomes a Switch
+
+1. [Why Start With Atoms?](chapters/part-01-matter-to-switch/001-why-start-with-atoms.md)
+2. [Atoms, Charge, and Electrons](chapters/part-01-matter-to-switch/002-atoms-charge-and-electrons.md)
+3. [Voltage, Current, and Resistance](chapters/part-01-matter-to-switch/003-voltage-current-and-resistance.md)
+
+Next: **Conductors, Insulators, and Semiconductors**
+
 ## Guiding Principles
 
 - Start with physical reality before abstraction.
