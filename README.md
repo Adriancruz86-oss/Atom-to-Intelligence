@@ -44,19 +44,6 @@ Modern AI systems
 
 The goal is not merely to describe each layer. It is to show how each layer creates the conditions for the next one.
 
-## Why This Exists
-
-This repository grew from a simple question:
-
-**How does a computer actually work, all the way down?**
-
-That question led from CPUs and RAM into machine code, assembly, Python, neural networks, gradient descent, and eventually the architecture behind systems such as ChatGPT.
-
-The project is both:
-
-- an educational guide for readers who want a true bottom-up explanation;
-- a record of one learner building technical understanding from first principles.
-
 ## Start Reading
 
 ### Part I — Matter Becomes a Switch
@@ -64,8 +51,13 @@ The project is both:
 1. [Why Start With Atoms?](chapters/part-01-matter-to-switch/001-why-start-with-atoms.md)
 2. [Atoms, Charge, and Electrons](chapters/part-01-matter-to-switch/002-atoms-charge-and-electrons.md)
 3. [Voltage, Current, and Resistance](chapters/part-01-matter-to-switch/003-voltage-current-and-resistance.md)
+4. [Conductors, Insulators, and Semiconductors](chapters/part-01-matter-to-switch/004-conductors-insulators-and-semiconductors.md)
+5. [Doping Silicon](chapters/part-01-matter-to-switch/005-doping-silicon.md)
+6. [The Transistor as a Controlled Switch](chapters/part-01-matter-to-switch/006-transistor-as-controlled-switch.md)
+7. [From Transistors to Logic Gates](chapters/part-01-matter-to-switch/007-from-transistors-to-logic-gates.md)
+8. [Boolean Logic](chapters/part-01-matter-to-switch/008-boolean-logic.md)
 
-Next: **Conductors, Insulators, and Semiconductors**
+Next: **Part II — Binary Numbers and Data Representation**
 
 ## Guiding Principles
 
@@ -115,13 +107,13 @@ Agents, tools, retrieval, memory, safety, cybersecurity, multimodal systems, and
 
 ## Status
 
-This is an active learning and writing project. Early chapters will be revised as the author's understanding deepens.
+Part I is now documented through Boolean logic and logic gates. Later concepts already studied—such as latches, flip-flops, registers, buses, and fetch-decode-execute—will be added in their proper Part II order rather than inserted ahead of missing dependencies.
 
 See [ROADMAP.md](ROADMAP.md) for the planned sequence and [LEARNING_LOG.md](LEARNING_LOG.md) for progress already made.
 
 ## Related Repository
 
-The companion repository **AI-Learning** contains working code, lesson notes, and experiments created during the learning process.
+The companion repository **AI-Learning** contains only the machine-learning lessons, code, and experiments created during the learning process.
 
 ## License
 
