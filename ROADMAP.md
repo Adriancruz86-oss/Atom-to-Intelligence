@@ -7,11 +7,11 @@ This roadmap follows the dependency chain from physical matter to modern artific
 - [x] [001 — Why Start With Atoms?](chapters/part-01-matter-to-switch/001-why-start-with-atoms.md)
 - [x] [002 — Atoms, Charge, and Electrons](chapters/part-01-matter-to-switch/002-atoms-charge-and-electrons.md)
 - [x] [003 — Voltage, Current, and Resistance](chapters/part-01-matter-to-switch/003-voltage-current-and-resistance.md)
-- [ ] 004 — Conductors, Insulators, and Semiconductors
-- [ ] 005 — Doping Silicon
-- [ ] 006 — The Transistor as a Controlled Switch
-- [ ] 007 — From Transistors to Logic Gates
-- [ ] 008 — Boolean Logic
+- [x] [004 — Conductors, Insulators, and Semiconductors](chapters/part-01-matter-to-switch/004-conductors-insulators-and-semiconductors.md)
+- [x] [005 — Doping Silicon](chapters/part-01-matter-to-switch/005-doping-silicon.md)
+- [x] [006 — The Transistor as a Controlled Switch](chapters/part-01-matter-to-switch/006-transistor-as-controlled-switch.md)
+- [x] [007 — From Transistors to Logic Gates](chapters/part-01-matter-to-switch/007-from-transistors-to-logic-gates.md)
+- [x] [008 — Boolean Logic](chapters/part-01-matter-to-switch/008-boolean-logic.md)
 
 ## Part II — Switches Become a Computer
 
