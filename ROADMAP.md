@@ -15,12 +15,12 @@ This roadmap follows the dependency chain from physical matter to modern artific
 
 ## Part II — Switches Become a Computer
 
-- [ ] 009 — Binary Numbers and Data Representation
-- [ ] 010 — Adders and Arithmetic Circuits
-- [ ] 011 — Registers, Clocks, and State
-- [ ] 012 — RAM and Persistent Storage
-- [ ] 013 — The CPU and Its Major Components
-- [ ] 014 — Fetch, Decode, Execute
+- [x] [009 — Binary Numbers and Data Representation](chapters/part-02-switches-to-computer/009-binary-numbers-and-data-representation.md)
+- [x] [010 — Adders and Arithmetic Circuits](chapters/part-02-switches-to-computer/010-adders-and-arithmetic-circuits.md)
+- [x] [011 — Registers, Clocks, and State](chapters/part-02-switches-to-computer/011-registers-clocks-and-state.md)
+- [x] [012 — RAM and Persistent Storage](chapters/part-02-switches-to-computer/012-ram-and-persistent-storage.md)
+- [x] [013 — The CPU and Its Major Components](chapters/part-02-switches-to-computer/013-cpu-and-major-components.md)
+- [x] [014 — Fetch, Decode, Execute](chapters/part-02-switches-to-computer/014-fetch-decode-execute.md)
 - [ ] 015 — Instruction Sets and Machine Code
 - [ ] 016 — Assembly Language
 - [ ] 017 — Input, Output, Buses, and Interrupts
