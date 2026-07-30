@@ -57,7 +57,16 @@ The goal is not merely to describe each layer. It is to show how each layer crea
 7. [From Transistors to Logic Gates](chapters/part-01-matter-to-switch/007-from-transistors-to-logic-gates.md)
 8. [Boolean Logic](chapters/part-01-matter-to-switch/008-boolean-logic.md)
 
-Next: **Part II — Binary Numbers and Data Representation**
+### Part II — Switches Become a Computer
+
+9. [Binary Numbers and Data Representation](chapters/part-02-switches-to-computer/009-binary-numbers-and-data-representation.md)
+10. [Adders and Arithmetic Circuits](chapters/part-02-switches-to-computer/010-adders-and-arithmetic-circuits.md)
+11. [Registers, Clocks, and State](chapters/part-02-switches-to-computer/011-registers-clocks-and-state.md)
+12. [RAM and Persistent Storage](chapters/part-02-switches-to-computer/012-ram-and-persistent-storage.md)
+13. [The CPU and Its Major Components](chapters/part-02-switches-to-computer/013-cpu-and-major-components.md)
+14. [Fetch, Decode, Execute](chapters/part-02-switches-to-computer/014-fetch-decode-execute.md)
+
+Next: **015 — Instruction Sets and Machine Code**
 
 ## Guiding Principles
 
@@ -107,7 +116,9 @@ Agents, tools, retrieval, memory, safety, cybersecurity, multimodal systems, and
 
 ## Status
 
-Part I is now documented through Boolean logic and logic gates. Later concepts already studied—such as latches, flip-flops, registers, buses, and fetch-decode-execute—will be added in their proper Part II order rather than inserted ahead of missing dependencies.
+Part I is documented through Boolean logic. Part II is documented through the fetch-decode-execute cycle. The next dependency is instruction sets and machine code.
+
+The arithmetic-circuit chapter is a solid first-pass explanation, but adders remain a useful area for future hands-on reinforcement.
 
 See [ROADMAP.md](ROADMAP.md) for the planned sequence and [LEARNING_LOG.md](LEARNING_LOG.md) for progress already made.
 
