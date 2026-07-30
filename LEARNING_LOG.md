@@ -10,6 +10,8 @@ This file records the knowledge and hands-on work that existed when **Atom to In
 - Learned the CPU fetch-decode-execute cycle.
 - Explored registers, RAM, storage, buses, firmware, UEFI/BIOS, bootloaders, kernels, and operating systems.
 - Reasoned through sleep, hibernation, saved state, and volatile versus persistent memory.
+- Traced the memory hierarchy from feedback and SR latches through gated and D latches, edge-triggered flip-flops, multi-bit registers, shared buses, control signals, clock timing, and fetch-decode-execute.
+- Current mental model: gates make decisions; latches and flip-flops retain state; registers hold groups of bits; buses move them; the control unit coordinates updates at clock edges.
 
 ## Programming and Development Tools
 
