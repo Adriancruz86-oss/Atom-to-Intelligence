@@ -59,6 +59,22 @@ This file records the knowledge and hands-on work that existed when **Atom to In
 - Transformer architecture and modern language-model training remain future sections.
 - Citations, diagrams, code tests, and chapter review standards must be established.
 
+## Progress Update — July 31, 2026
+
+- Reviewed visual explanations of semiconductor behavior, P-type and N-type doping, P-N junctions, diodes, and transistors.
+- Strengthened the physical model of a transistor as an electrically controlled switch with no moving mechanical parts.
+- Confirmed that physical **OFF/ON** language is easier to understand before translating circuit states into binary `0/1` labels.
+- Built a working physical understanding of NOT, AND, OR, NAND, NOR, and XOR gate behavior.
+- Connected series transistor paths with AND-style conditions and parallel paths with OR-style conditions.
+- Understood a NAND gate as two series transistors that pull the output to ground only when both transistors are ON.
+- Reinforced that circuit mechanisms should be understood before moving into arithmetic circuits or other applications.
+- Identified animation and breadboard demonstrations as useful prerequisites when a concept depends on charge movement, voltage changes, feedback, or several interacting circuit paths.
+- Stopped before SR latches and memory so feedback can be introduced visually and one mechanism at a time.
+
+### Next Visual Prerequisite
+
+Before continuing into memory, review an animation or breadboard demonstration of an **SR latch built from NAND gates**. Focus on how each gate's output feeds the other gate and allows the circuit to retain one of two stable states.
+
 ## Next Milestone
 
-Build Part I in order, beginning with matter, charge, electricity, semiconductors, transistors, and logic gates. Existing knowledge from later layers will be retained, but the public narrative will not skip foundational dependencies.
+Continue from logic gates into feedback and memory, beginning with the SR latch. Teach the physical ON/OFF behavior first, then introduce state labels and binary abstractions only after the mechanism is clear.
